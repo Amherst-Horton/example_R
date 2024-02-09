@@ -1,3 +1,5 @@
+An example of ways to use that Amherst College Computing Cluster (circa 2023)
+
 Step 1: run the shell command:
 
 module load amh-R
